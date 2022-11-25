@@ -1,0 +1,3 @@
+amount = float(input())
+print(f'{amount:,}')
+print('{:,}'.format(amount))
